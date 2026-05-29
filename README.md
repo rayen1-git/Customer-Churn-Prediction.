@@ -1,4 +1,4 @@
-# Telecom Customer Churn Prediction 📊🧠
+# Customer Churn Prediction 📊🧠
 
 This project focuses on predicting customer attrition (Churn) for a telecommunications company using Machine Learning. The goal is to identify high-risk customers proactively so the business can take retention actions.
 
