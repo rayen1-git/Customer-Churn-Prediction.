@@ -1,9 +1,13 @@
 # Customer Churn Prediction 📊🧠
 
-This project focuses on predicting customer attrition (Churn) for a telecommunications company using Machine Learning. The goal is to identify high-risk customers proactively so the business can take retention actions.
+This project focuses on predicting customer attrition (Churn) using Machine Learning. The goal is to identify high-risk customers proactively so the business can take retention actions.
 
 ## 📌 Project Overview
-Customer churn is a critical metric for telecom companies. In this project, we analyze customer behaviors, demographics, and contract types to build a predictive model.
+Customer churn is a critical metric for businesses. In this project, we analyze customer behaviors, demographics, and contract types to build a predictive model.
+
+## 💾 Data Source
+The dataset used in this project is automatically fetched from the official Telco Customer Churn repository:
+`https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv`
 
 ## 🛠️ Tech Stack & Libraries
 * **Language:** Python
